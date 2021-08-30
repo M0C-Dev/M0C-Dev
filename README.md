@@ -11,6 +11,10 @@ I am MOC!
     📍 Java
   
     📍 C#
+    
+### 💾 My status...
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 
 <!--
 **M0C-Dev/M0C-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
