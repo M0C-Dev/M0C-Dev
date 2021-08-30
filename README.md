@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-Eu sou Samuel
+##🌱 I’m currently learning ...
+  📍 JS
+  📍 Java
+  📍 C#
 
 <!--
 **M0C-Dev/M0C-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
