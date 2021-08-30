@@ -3,11 +3,11 @@
 I am MOC!
 
 ## 🌱 I’m currently learning ...
-  📍 JS
+    📍 JS
   
-  📍 Java
+    📍 Java
   
-  📍 C#
+    📍 C#
 
 <!--
 **M0C-Dev/M0C-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
