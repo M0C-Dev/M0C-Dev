@@ -2,7 +2,7 @@
 
 I am MOC!
 
-## 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
     📍 JS
   
     📍 Java
