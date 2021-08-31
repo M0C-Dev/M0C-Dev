@@ -12,7 +12,7 @@ I am MOC!
   
     📍 C#
     
-### 💾 My status...
+### 💾 My status ...
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=M0C-Dev&hide=html&layout=compact&theme=default)](https://github.com/M0C-Dev)
 
