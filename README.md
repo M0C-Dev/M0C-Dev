@@ -6,11 +6,10 @@ I am MOC!
     📄 Nothing...
        
 ### 🌱 I’m currently learning ...
-    📍 JS
-  
+
     📍 Java
   
-    📍 C#
+    📍 Minecraft Modding
     
 ### 💾 My status ...
 
