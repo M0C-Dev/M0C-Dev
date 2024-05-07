@@ -3,13 +3,16 @@
 I am MOC!
 
 ### 🔭 I’m currently working on ...
-    🎲 Random HTML projects!
+
+    🐱 Thoth's Journey - School Project Game!
        
 ### 🌱 I’m currently learning ...
 
-    📍 Java
+    📍 HTML & CSS
   
-    📍 Minecraft Modding
+    📍 Python
+      
+    📍 MySQL
     
 ### 💾 My status ...
 
